@@ -1,6 +1,7 @@
 public class Test {
     public Test() {
         System.out.println("hello");
+        System.out.println("çarp böl parçala ");
     }
     public int summ(int x,int y){
         return x+y;
