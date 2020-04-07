@@ -5,4 +5,7 @@ public class Test {
     public int summ(int x,int y){
         return x+y;
     }
+    public int abst (int c, int y){
+        return c - y;
+    }
 }
