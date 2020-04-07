@@ -3,6 +3,8 @@ public class Test {
         System.out.println("hello");
         System.out.println("çarp böl parçala ");
         System.out.println("summation : asdfasf");
+        System.out.println("summation : asdfasf");
+
     }
     public int summ(int x,int y){
         return x+y;
