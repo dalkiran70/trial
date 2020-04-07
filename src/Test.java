@@ -8,4 +8,7 @@ public class Test {
     public int abst (int c, int y){
         return c - y;
     }
+    public void printh(){
+        System.out.println("hello");
+    }
 }
